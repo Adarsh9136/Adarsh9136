@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MyInfra.app
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about Flutter... 
+- 💬 Ask me about Flutter..
 - 📫 How to reach me: adarshkashyap1muz@gmail.com
 -->
