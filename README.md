@@ -15,7 +15,7 @@
   <h3>Blockchain</h3> <img src="https://img.icons8.com/color/144/null/blockchain.png" alt="blockchain" width="50" height="60" />
 </td>
 <td>
-  <h3>Java</h3> <img src="https://img.icons8.com/color/144/null/java.png" style="width:60px; height:60px; border-radius:10px"> 
+  <h3>Java</h3> <img src="https://img.icons8.com/color/144/null/java-coffee-cup-logo--v1.png" style="width:60px; height:60px; border-radius:10px"> 
 </td>
   </tr>
   </tr>
@@ -57,7 +57,7 @@
 </p>
 
 <!-----TECH STACK---------------->
-
+<img src ="../valorant-killjoy-min.gif">
     <h3 align="left">Languages and Tools:</h3>
      <a href="https://flutter.dev/" target="_blank" rel="noreferrer" > <img 
             src="https://img.icons8.com/color/144/null/flutter.png"
